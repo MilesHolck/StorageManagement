@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//HEJ DET ER MIG IDA JEG HAR LAVET EN GREN OG SKREVET HEJ. :)
