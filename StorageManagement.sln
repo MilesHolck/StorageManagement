@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.37111.16 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageManagement", "StorageManagement\StorageManagement.csproj", "{BD9477CB-3EF4-46C4-9067-5304513E8428}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageManagementConsole", "StorageManagementConsole\StorageManagementConsole.csproj", "{FCB6E82D-32C9-414E-A0EB-7A1E35FE8E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageLibrary", "StorageLibrary\StorageLibrary.csproj", "{8241763A-23D6-4449-AFF5-C4CE888E5F85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BD9477CB-3EF4-46C4-9067-5304513E8428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9477CB-3EF4-46C4-9067-5304513E8428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9477CB-3EF4-46C4-9067-5304513E8428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB6E82D-32C9-414E-A0EB-7A1E35FE8E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB6E82D-32C9-414E-A0EB-7A1E35FE8E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB6E82D-32C9-414E-A0EB-7A1E35FE8E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB6E82D-32C9-414E-A0EB-7A1E35FE8E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8241763A-23D6-4449-AFF5-C4CE888E5F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8241763A-23D6-4449-AFF5-C4CE888E5F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8241763A-23D6-4449-AFF5-C4CE888E5F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8241763A-23D6-4449-AFF5-C4CE888E5F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
